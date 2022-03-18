@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+#todo_app: 
+  #  path: /todo
+  #  controller: App\Controller\TodoController::test
